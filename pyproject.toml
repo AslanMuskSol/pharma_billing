@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pharma_billing"
+version = "0.0.1"
+description = "Custom Pharma Billing App for ERPNext"
+authors = ["Black Pearl"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+frappe = "15.*"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
