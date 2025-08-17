@@ -2,3 +2,4 @@ include MANIFEST.in
 include requirements.txt
 recursive-include pharma_billing *.css *.csv *.html *.ico *.js *.json *.md *.png *.py *.svg *.txt
 recursive-exclude * *.pyc
+recursive-exclude * __pycache__
