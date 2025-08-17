@@ -1,1 +1,1 @@
-#init
+# Doctype Init
