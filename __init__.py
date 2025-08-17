@@ -1,1 +1,1 @@
-# Init file for pharma_billing
+# Pharma Billing App Init
