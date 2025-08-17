@@ -1,0 +1,3 @@
+recursive-include pharma_billing *.css *.csv *.html *.ico *.js *.json *.md *.png *.py *.svg *.txt
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
